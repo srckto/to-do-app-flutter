@@ -25,7 +25,7 @@ class DBHelper {
         );
         print("Successful create Database");
       } catch (error) {
-        print("Error in Fuction initDb in file db_helper");
+        print("Error in Function initDb in file db_helper");
       }
     }
   }
@@ -45,7 +45,6 @@ class DBHelper {
   }
 
   static Future<List<Map<String, dynamic>>> query() async {
-    //<List<Map<String, dynamic>>>
     print("query Function");
     return await db!.query(_tableName);
   }

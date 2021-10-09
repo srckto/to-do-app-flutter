@@ -51,7 +51,5 @@ class Task {
     repeat = json['repeat'];
   }
 
-  //String toJson() => json.encode(toMap());
 
-  //factory Task.fromJson(String source) => Task.fromMap(json.decode(source));
 }
