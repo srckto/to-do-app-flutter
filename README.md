@@ -1,6 +1,6 @@
 # to_do_app
 
-### Screenshot
+### Screenshots.
 <img src="https://user-images.githubusercontent.com/85505451/168658208-8d3a9df6-9083-438c-adf3-fabc13b46b3d.png" width ="350"> <img src="https://user-images.githubusercontent.com/85505451/168658218-6f644e56-1e6d-4522-a101-e54a9c83b600.png" width ="350">
 
 
